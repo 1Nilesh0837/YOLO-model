@@ -1,0 +1,17 @@
+# Ignore environments
+.venv/
+venv/
+__pycache__/
+
+# Ignore large data & results
+data/
+runs/
+weights/
+report/
+*.pt
+*.pth
+*.weights
+*.log
+
+# VSCode
+.vscode/
